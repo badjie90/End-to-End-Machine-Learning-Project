@@ -28,8 +28,11 @@ git config --global user.name "your user name"
 git config --global user.email "your user email"
 
 git add .
+
 git status
+
 git commit -m "commit message"
+
 git push origin main
 
 ### Install the requirements.txt file
